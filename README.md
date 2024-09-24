@@ -1,10 +1,14 @@
-## Hi there 👋
-
+## Hola a todos, bienvenidos a mi área de Github 👋
+>Esta es una cuenta para iniciarme en el uso de Github.  
+>Tened paciencia con lo que podáis encontrar... aún soy muy novato en esto
 <!--
 **EnriqueBD/EnriqueBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Pertenezco a Nedatec Consulting, una empresa de desarrollo de software especializada en prevención de riesgos laborales, medicina del trabajo y coordinación de actividades empresariales.  
 
-Here are some ideas to get you started:
+Poco a poco iré mejorando este inicio, según vaya aprendiendo el uso de MarkDown...
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
